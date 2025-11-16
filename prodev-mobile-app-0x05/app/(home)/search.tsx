@@ -1,6 +1,6 @@
 import React from 'react'
 
-const join = () => {
+const search = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const join = () => {
   )
 }
 
-export default join
+export default search

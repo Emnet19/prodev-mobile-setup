@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
     fontWeight: 400
   },
   signupgroup: {
-              flexDirection: 'row',
+    flexDirection: 'row',
     justifyContent: 'center',
     position: 'absolute',
     left: 77, 
@@ -122,6 +122,6 @@ const styles = StyleSheet.create({
     color: '#34967C',
     marginTop: 9,
   }
-  });
+});
 
 export { styles }
